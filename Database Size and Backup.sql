@@ -1,4 +1,5 @@
 -- This is a script to determine size of databases and also backup status.
+-- Another comment.
 
 IF OBJECT_ID('tempdb.dbo.#space') IS NOT NULL
     DROP TABLE #space
